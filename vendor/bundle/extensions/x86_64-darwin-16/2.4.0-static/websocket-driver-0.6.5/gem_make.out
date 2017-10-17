@@ -1,0 +1,15 @@
+current directory: /Users/S_K/rail/toy/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/S_K/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20171017-91911-1ki8e8v.rb extconf.rb
+creating Makefile
+
+current directory: /Users/S_K/rail/toy/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/S_K/rail/toy/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/S_K/rail/toy/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20171017-91911-15ke93h
